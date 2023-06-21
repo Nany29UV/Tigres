@@ -1,0 +1,40 @@
+.text-justify{
+    text-align: justify !important;
+}
+
+.navbar{
+    background-color: burlywood !important;
+    color: rgb(119, 18, 18);
+
+}
+
+.container {
+    display: table;
+    background-color: rgb(245, 235, 223) !important;
+    width: 100%;
+    height: 100%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(119, 18, 18);
+}
+
+h2{
+    text-align: center;
+    color: rgb(119, 18, 18);
+}
+
+hr{
+    border: none;
+    color: rgb(68, 8, 8);
+    height: 3px;
+    background-color: rgb(68, 8, 8);
+
+}
+
+footer{
+    color: rgb(68, 8, 8);
+    margin-top: 9px;
+}
+
